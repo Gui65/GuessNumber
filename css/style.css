@@ -116,7 +116,7 @@ header a h1{
 }
 
 /* btn jogar de novo ================= */
-.container #btnrestart{
+.container #btnRestart{
     cursor: pointer;
     border: 0;
     outline: 0;
@@ -132,7 +132,7 @@ header a h1{
     display: none;
 }
 
-.container #btnrestart:hover{
+.container #btnbtnRestart:hover{
     background: var(--blue);
     color: var(--white);
 }
