@@ -132,7 +132,7 @@ header a h1{
     display: none;
 }
 
-.container #btnbtnRestart:hover{
+.container #btnRestart:hover{
     background: var(--blue);
     color: var(--white);
 }
